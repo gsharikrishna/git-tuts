@@ -1,2 +1,4 @@
 this is the example1.txt file
 here i made some changes
+
+Time was 10:00pm and date was saturday 
